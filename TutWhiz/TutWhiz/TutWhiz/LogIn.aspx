@@ -1,4 +1,5 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/TutWhiz/TutWhiz.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="TutWhiz.TutWhiz.Default" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/TutWhiz/TutWhiz.Master" AutoEventWireup="true" CodeBehind="LogIn.aspx.cs" Inherits="TutWhiz.TutWhiz.LogIn" %>
+
 
 <asp:Content runat="server" ContentPlaceHolderID="Content2">
     <asp:Panel ID="pnlLogIn" runat="server" DefaultButton="btnLogIn">

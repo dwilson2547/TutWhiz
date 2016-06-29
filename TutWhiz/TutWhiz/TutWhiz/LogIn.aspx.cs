@@ -8,13 +8,12 @@ using TutWhiz.App_Code;
 
 namespace TutWhiz.TutWhiz
 {
-    public partial class Default : System.Web.UI.Page
+    public partial class LogIn : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
             this.txtPassword.Attributes.Add("onKeyPress", "button_click(this,'" + this.btnLogIn.ClientID + "')");
         }
-
         protected void btnLogIn_Click(object sender, EventArgs e)
         {
             logIn();
