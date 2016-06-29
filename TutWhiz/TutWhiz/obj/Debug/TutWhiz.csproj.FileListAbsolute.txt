@@ -31,3 +31,4 @@ C:\Users\Daniel\Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.Applicati
 C:\Users\Daniel\Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Daniel\Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\obj\Debug\TutWhiz.dll
 C:\Users\Daniel\Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\obj\Debug\TutWhiz.pdb
+C:\Users\Daniel\Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\obj\Debug\TutWhiz.csprojResolveAssemblyReference.cache
