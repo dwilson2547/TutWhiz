@@ -154,7 +154,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App_Code\TutWhizClass.cs" />
     <Compile Include="App_Code\TutWhizConnection.cs" />
+    <Compile Include="App_Code\TutWhizTutor.cs" />
+    <Compile Include="App_Code\TutWhizSchool.cs" />
+    <Compile Include="App_Code\TutWhizDepartment.cs" />
+    <Compile Include="App_Code\TutWhizTeacher.cs" />
+    <Compile Include="App_Code\TutWhizTeacherRating.cs" />
     <Compile Include="App_Code\TutWhizUser.cs" />
     <Compile Include="TutWhiz\Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
@@ -184,7 +190,7 @@
     <Compile Include="TutWhiz\TutWhiz.Master.designer.cs">
       <DependentUpon>TutWhiz.Master</DependentUpon>
     </Compile>
-    <Content Include="App_Code\Global.cs" />
+    <Compile Include="App_Code\Global.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <PropertyGroup>
