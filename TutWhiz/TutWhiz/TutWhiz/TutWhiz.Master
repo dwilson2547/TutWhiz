@@ -45,18 +45,17 @@
                         <span class="icon-bar"></span>  
                         <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="./index.html">TutWhiz</a>
+                        <a class="navbar-brand" href="#">TutWhiz</a>
                     </div>
                     <div class="collapse navbar-collapse">
                         <ul class="nav nav-pills navbar-left">
-                            <li role="presentation" class="center"><a href="#">Home</a></li>
-                            <li role="presentation" class="center"><a href="#">Profile</a></li>
+                            <li role="presentation" class="center"><a href="Default.aspx">Home</a></li>
+                            <li role="presentation" class="center"><a href="http://www.blog.tutwhiz.com">Progress Blog</a></li>
                             <li role="presentation" class="center"><a href="#">Messages</a></li>
                         </ul>
-                        
                         <ul class="nav nav-pills navbar-right">
-                            <li role="presentation" class="center"><a href="#">Log In</a></li>
-                            <li role="presentation" class="center"><a href="#">Register</a></li>
+                            <li role="presentation" class="center"><a href="LogIn.aspx">Log In</a></li>
+                            <li role="presentation" class="center"><a href="Register.aspx">Register</a></li>
                         </ul>
                     </div>
                     
