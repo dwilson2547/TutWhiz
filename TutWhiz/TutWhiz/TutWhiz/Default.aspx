@@ -7,6 +7,9 @@
         <input type="text" id="txtUserName" pattern="[a-zA-z0-9-_.]+" runat="server" title="UserName" oninvalid="setCustomValidity('Only letters, numbers, and the following special characters are allowed - _ .')" onchange="try{setCustomValidity('')}catch(e){}" />
         <br />
         <asp:Label Text="Password: " runat="server"></asp:Label>
+        <br />
+        <p>HI FAMILY!</p>
+        <br />
         <asp:TextBox ID="txtPassword" TextMode="Password" runat="server"></asp:TextBox>
         <br />
         <asp:Button ID="btnLogIn" runat="server" Text="Log In" OnClick="btnLogIn_Click" CssClass="btn btn-default" />
