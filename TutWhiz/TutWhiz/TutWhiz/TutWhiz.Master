@@ -52,6 +52,7 @@
                             <li role="presentation" class="center"><a href="Default.aspx">Home</a></li>
                             <li role="presentation" class="center"><a href="http://www.blog.tutwhiz.com">Progress Blog</a></li>
                             <li role="presentation" class="center"><a href="#">Messages</a></li>
+                            <li role="presentation" class="center"><a href="FindTutor.aspx">Find a Tutor</a></li>
                         </ul>
                         <ul class="nav nav-pills navbar-right">
                             <li role="presentation" class="center"><a href="LogIn.aspx">Log In</a></li>

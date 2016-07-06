@@ -114,6 +114,7 @@
     <Content Include="Style_Libraries\bootstrap-3.3.6\dist\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="Style_Libraries\bootstrap-3.3.6\dist\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="Style_Libraries\bootstrap-3.3.6\dist\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="TutWhiz\FindTutor.aspx" />
     <Content Include="TutWhiz\LogIn.aspx" />
     <Content Include="TutWhiz\TutWhiz.Master" />
     <None Include="Web.Debug.config">
@@ -168,6 +169,13 @@
     </Compile>
     <Compile Include="TutWhiz\Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TutWhiz\FindTutor.aspx.cs">
+      <DependentUpon>FindTutor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TutWhiz\FindTutor.aspx.designer.cs">
+      <DependentUpon>FindTutor.aspx</DependentUpon>
     </Compile>
     <Compile Include="TutWhiz\LogIn.aspx.cs">
       <DependentUpon>LogIn.aspx</DependentUpon>
