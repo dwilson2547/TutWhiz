@@ -114,6 +114,7 @@
     <Content Include="Style_Libraries\bootstrap-3.3.6\dist\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="Style_Libraries\bootstrap-3.3.6\dist\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="Style_Libraries\bootstrap-3.3.6\dist\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Style_Libraries\select2-bootstrap.css" />
     <Content Include="TutWhiz\FindTutor.aspx" />
     <Content Include="TutWhiz\LogIn.aspx" />
     <Content Include="TutWhiz\TutWhiz.Master" />

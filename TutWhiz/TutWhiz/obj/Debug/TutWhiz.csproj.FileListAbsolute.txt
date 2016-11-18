@@ -32,3 +32,36 @@ C:\Users\Daniel\Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.CodeDom.P
 C:\Users\Daniel\Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\obj\Debug\TutWhiz.dll
 C:\Users\Daniel\Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\obj\Debug\TutWhiz.pdb
 C:\Users\Daniel\Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\obj\Debug\TutWhiz.csprojResolveAssemblyReference.cache
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\ApplicationInsights.config
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\roslyn\csc.exe
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\roslyn\System.Collections.Immutable.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\roslyn\System.Reflection.Metadata.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\roslyn\vbc.exe
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\roslyn\VBCSCompiler.exe
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\roslyn\VBCSCompiler.exe.config
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\TutWhiz.dll.config
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\TutWhiz.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\TutWhiz.pdb
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.AI.DependencyCollector.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.AI.Web.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.AI.WindowsServer.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.ApplicationInsights.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.AI.DependencyCollector.xml
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.AI.Web.xml
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.AI.WindowsServer.xml
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.ApplicationInsights.xml
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\obj\Debug\TutWhiz.csprojResolveAssemblyReference.cache
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\obj\Debug\TutWhiz.dll
+D:\Windows Default Folders\My Documents\GitHub\TutWhiz\TutWhiz\TutWhiz\obj\Debug\TutWhiz.pdb
