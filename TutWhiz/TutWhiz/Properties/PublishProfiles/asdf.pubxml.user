@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>Y:\Tut</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>06/13/2016 21:24:55</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>06/13/2016 21:24:55</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>03/10/2016 14:26:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>03/09/2016 12:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>03/10/2016 14:26:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>03/09/2016 11:57:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>10/02/2015 17:05:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/TutWhiz.dll">
+      <publishTime>08/27/2016 02:20:20</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/13/2016 21:24:55</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>06/13/2016 21:24:55</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>06/13/2016 21:24:55</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/css/bootstrap-theme.css">
+      <publishTime>06/13/2016 21:27:32</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/css/bootstrap-theme.css.map">
+      <publishTime>06/13/2016 21:27:32</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/css/bootstrap-theme.min.css">
+      <publishTime>06/13/2016 21:27:32</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/css/bootstrap-theme.min.css.map">
+      <publishTime>06/13/2016 21:27:32</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/css/bootstrap.css">
+      <publishTime>06/13/2016 21:27:32</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/css/bootstrap.css.map">
+      <publishTime>06/13/2016 21:27:32</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/css/bootstrap.min.css">
+      <publishTime>06/13/2016 21:27:32</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/css/bootstrap.min.css.map">
+      <publishTime>06/13/2016 21:27:32</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>06/13/2016 21:27:40</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>06/13/2016 21:27:40</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>06/13/2016 21:27:40</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>06/13/2016 21:27:40</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>06/13/2016 21:27:40</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/js/bootstrap.js">
+      <publishTime>06/13/2016 21:27:48</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/js/bootstrap.min.js">
+      <publishTime>06/13/2016 21:27:48</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/dist/js/npm.js">
+      <publishTime>06/13/2016 21:27:48</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>06/13/2016 21:27:06</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>06/13/2016 21:27:06</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>06/13/2016 21:27:06</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>06/13/2016 21:27:06</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>06/13/2016 21:27:06</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/js/affix.js">
+      <publishTime>06/13/2016 21:26:57</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/js/alert.js">
+      <publishTime>06/13/2016 21:26:57</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/js/button.js">
+      <publishTime>06/13/2016 21:26:57</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/js/carousel.js">
+      <publishTime>06/13/2016 21:26:57</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/js/collapse.js">
+      <publishTime>06/13/2016 21:26:57</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/js/dropdown.js">
+      <publishTime>06/13/2016 21:26:57</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/js/modal.js">
+      <publishTime>06/13/2016 21:26:57</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/js/popover.js">
+      <publishTime>06/13/2016 21:26:57</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/js/scrollspy.js">
+      <publishTime>06/13/2016 21:26:57</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/js/tab.js">
+      <publishTime>06/13/2016 21:26:57</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/js/tooltip.js">
+      <publishTime>06/13/2016 21:26:57</publishTime>
+    </File>
+    <File Include="Style_Libraries/bootstrap-3.3.6/js/transition.js">
+      <publishTime>06/13/2016 21:26:57</publishTime>
+    </File>
+    <File Include="Style_Libraries/jquery-2.2.4.min.js">
+      <publishTime>06/13/2016 21:25:59</publishTime>
+    </File>
+    <File Include="TutWhiz/Default.aspx">
+      <publishTime>07/05/2016 21:43:59</publishTime>
+    </File>
+    <File Include="TutWhiz/FindTutor.aspx">
+      <publishTime>07/05/2016 22:07:18</publishTime>
+    </File>
+    <File Include="TutWhiz/LogIn.aspx">
+      <publishTime>06/28/2016 23:55:42</publishTime>
+    </File>
+    <File Include="TutWhiz/Register.aspx">
+      <publishTime>06/13/2016 23:05:53</publishTime>
+    </File>
+    <File Include="TutWhiz/SQL/Tuber Tables.sql">
+      <publishTime>06/28/2016 23:55:42</publishTime>
+    </File>
+    <File Include="TutWhiz/TutWhiz.Master">
+      <publishTime>07/05/2016 21:59:57</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/27/2016 02:57:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

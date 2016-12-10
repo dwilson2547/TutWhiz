@@ -117,6 +117,7 @@
     <Content Include="TutWhiz\FindTutor.aspx" />
     <Content Include="TutWhiz\LogIn.aspx" />
     <Content Include="TutWhiz\TutWhiz.Master" />
+    <None Include="Properties\PublishProfiles\asdf.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
