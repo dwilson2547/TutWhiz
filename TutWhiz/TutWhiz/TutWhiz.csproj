@@ -153,7 +153,9 @@
     <Content Include="TutWhiz\Default.aspx" />
     <Content Include="TutWhiz\Register.aspx" />
     <Content Include="TutWhiz\SQL\Tuber Tables.sql" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Code\TutWhizClass.cs" />

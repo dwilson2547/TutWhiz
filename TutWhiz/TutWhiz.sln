@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutWhiz", "TutWhiz\TutWhiz.csproj", "{377794A6-D184-4607-802D-B2498CD154CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validation", "Validation\Validation.csproj", "{C16B939E-AF28-4569-A5F6-C33909F67CD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{377794A6-D184-4607-802D-B2498CD154CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{377794A6-D184-4607-802D-B2498CD154CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{377794A6-D184-4607-802D-B2498CD154CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16B939E-AF28-4569-A5F6-C33909F67CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16B939E-AF28-4569-A5F6-C33909F67CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16B939E-AF28-4569-A5F6-C33909F67CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16B939E-AF28-4569-A5F6-C33909F67CD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
