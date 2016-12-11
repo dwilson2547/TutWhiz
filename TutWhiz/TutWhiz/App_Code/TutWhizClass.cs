@@ -6,7 +6,7 @@ using System.Web;
 namespace TutWhiz.App_Code
 {
     public class TutWhizClass
-    {
+    { 
         int _ID;
         TutWhizDepartment _Department;
         string _Name; 

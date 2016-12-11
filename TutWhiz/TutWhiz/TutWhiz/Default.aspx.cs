@@ -14,5 +14,10 @@ namespace TutWhiz.TutWhiz
         {
             
         }
+
+        protected void btnSubmit_Click(object sender, EventArgs e)
+        {
+            txtBox.Text = "Hello: " + txtBox.Text;
+        }
     }
 }

@@ -5,6 +5,11 @@
     <div class="container-fluid">
         <h2>Welcome to TutWhiz!</h2>
     </div>
+        <div class="container-fluid">
+            <p>Name: </p>
+            <asp:TextBox ID="txtBox" runat="server"></asp:TextBox>
+            <asp:Button ID="btnSubmit" Text="Submit" CssClass="btn btn-primary" runat="server" OnClick="btnSubmit_Click" />
+        </div>
     </asp:Panel>
     <script type="text/javascript">
         
